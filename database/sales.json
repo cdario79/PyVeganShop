@@ -1,0 +1,74 @@
+{
+   "data": [
+      {
+         "name": "latte di soia",
+         "quantity": 5,
+         "purchase_price": 0.8,
+         "selling_price": 1.4,
+         "sale_id": "b77eb2ec27e140d9b2ba00e451dc7971"
+      },
+      {
+         "name": "tofu",
+         "quantity": 2,
+         "purchase_price": 2.2,
+         "selling_price": 4.19,
+         "sale_id": "b77eb2ec27e140d9b2ba00e451dc7971"
+      },
+      {
+         "name": "seitan",
+         "quantity": 10,
+         "purchase_price": 3.0,
+         "selling_price": 5.49,
+         "sale_id": "a040927243fe4d8a829af26cedeee10d"
+      },
+      {
+         "name": "tofu",
+         "quantity": 1,
+         "purchase_price": 2.2,
+         "selling_price": 4.19,
+         "sale_id": "b1560e7209b044da8b063f591ddd3a89"
+      },
+      {
+         "name": "tofu",
+         "quantity": 2,
+         "purchase_price": 2.2,
+         "selling_price": 4.19,
+         "sale_id": "b1560e7209b044da8b063f591ddd3a89"
+      },
+      {
+         "name": "tofu",
+         "quantity": 1,
+         "purchase_price": 2.2,
+         "selling_price": 4.19,
+         "sale_id": "d27042b0d04340b4bfd91ca8eaefbee7"
+      },
+      {
+         "name": "tofu",
+         "quantity": 2,
+         "purchase_price": 2.2,
+         "selling_price": 4.19,
+         "sale_id": "5dc5bc6b509c4cffb62d17b309bea6e3"
+      },
+      {
+         "name": "tofu",
+         "quantity": 1,
+         "purchase_price": 2.2,
+         "selling_price": 4.19,
+         "sale_id": "9729ec055d0b407199bf86c8fa281f1b"
+      },
+      {
+         "name": "tofu",
+         "quantity": 1,
+         "purchase_price": 2.2,
+         "selling_price": 4.19,
+         "sale_id": "7d41e2fe678448d49c39b27477baaa1f"
+      },
+      {
+         "name": "latte di soia",
+         "quantity": 2,
+         "purchase_price": 0.8,
+         "selling_price": 1.4,
+         "sale_id": "7d41e2fe678448d49c39b27477baaa1f"
+      }
+   ]
+}
